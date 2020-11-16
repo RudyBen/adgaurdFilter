@@ -3,3 +3,7 @@
 ||facebook.com
 ||instagram.com
 ||dumpert.nl
+||netflix.nl
+||netflix.com
+||facebook.nl
+||youtube.nl
